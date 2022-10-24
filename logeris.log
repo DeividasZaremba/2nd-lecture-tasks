@@ -1,0 +1,17 @@
+
+2022-10-19 19:59:21,912:INFO:__main__:Skaiciu (10, 3, 4) suma lygi: 17
+2022-10-19 19:59:31,148:ERROR:__main__:Paduotas ne skaicius
+Traceback (most recent call last):
+  File "C:\Users\teh\PycharmProjects\CAPT03\12ptasks.py", line 29, in saknis
+    rez = math.sqrt(arg)
+TypeError: must be real number, not str
+2022-10-19 19:59:43,538:INFO:__main__:Saknis is skaiciaus 16 yra 4.0
+2022-10-19 19:59:52,825:INFO:__main__:Duoto sakinio (as nieko siandien nenoriu daryti) ilgis yra is 32 simboliu.
+2022-10-19 20:00:29,421:INFO:__main__:Daliname 4 is 1, rezultatas: 4.02022-10-19 20:07:08,593:INFO:LOGAS:Daliname 4 is 1, rezultatas: 4.0
+2022-10-19 21:54:37,525:INFO:LOGAS:Saknis is skaiciaus 16 yra 4.0
+2022-10-19 22:01:01,133:ERROR:LOGAS:Paduotas ne skaicius
+Traceback (most recent call last):
+  File "C:\Users\teh\PycharmProjects\CAPT03\12ptasks.py", line 31, in saknis
+    rez = math.sqrt(arg)
+TypeError: must be real number, not str
+2022-10-19 22:01:14,446:INFO:LOGAS:Saknis is skaiciaus 0 yra 0.0
